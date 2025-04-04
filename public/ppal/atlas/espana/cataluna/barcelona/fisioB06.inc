@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 339<br>
+Altitud, m: (700-776) 725<br>
+Pendiente, %: (3-6) 4<br>
+Términos municipales: Aiguafreda, Alpens, Balenya, Calldetenes, Centelles, El Brull, Figaro-Montmany, Folgueroles, Gurb, Les Masles de Voltrega, Lluþa, Malla, Manlleu, Masies de Roda, Montesquiu, Muntanyola, Olost, Oris, Orista, Perafita, Prats de Lluþanes, Roda de Ter, Rupit i Pruit, Sant Agusti de Lluþanes, Sant Bartomeu del Grau, Sant Feliu Sasserra, Sant Hipolit de Voltrega, Sant Julia de Vilatorta, Sant Marti d'Albars, Sant Marti de Centelles, Sant Pere de Toello, Sant Quirze de Besora, Sant Sadurni d'Osormort, Sant Vicenþ de Torello, Santa Cecilia de Voltrega, Santa Eugenia de Berga, Santa Eulalia de Riuprimer, Santa Maria de Besora, Santa Maria de Corco, Santa Maria de Merles, Sat Boi de Lluþanes, Seva, Sobremunt, Sora, Tagamanent, Taradell, Tavernoles, Tavertet, Tona, Torello, Vic, Vilanova de Sau.<br>

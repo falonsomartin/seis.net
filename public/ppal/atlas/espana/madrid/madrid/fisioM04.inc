@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1533<br>
+Altitud, m: (699-1939) 1181<br>
+Pendiente, %: (1-11) 6<br>
+Términos municipales: Alameda del Valle, Berzosa del Lozoya, Braojos, Buitrago del Lozoya, Bustarviejo, Cabanillas de la Sierra, Canencia, Cervera de Buitrago, El Atazar, El Berrueco, El Molar, El Vellon, Garganta de los Montes, Gargantilla del Lozoya, Gascones, Guadalix de la Sierra, Horcajo de la Sierra, Horcajuelo de la Sierra, La Acebeda, La Cabrera, La Hiruela, La Serna del Monte, Lozolla, Lozoyuela-Navas-Sieteiglesias, Madarcos, Miraflores de la Sierra, Montejo de la Sierra, Navalafuente, Navarredonda, Patones, Pedrezuela, Pinilla del Valle, Piñuecar, Pradena del Rincon, Puebla de la Sierra, Puentes Viejas, Rascafria, Redueña, Robledillo de la Jara, Robregordo, San Agustin de Guadalix, Somosierra, Soto del Real, Torrelaguna, Torremocha de Jarama, Valdemanco, Venturada, Villavieja del Lozoya.<br>

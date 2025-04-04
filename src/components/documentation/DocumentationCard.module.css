@@ -1,0 +1,70 @@
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 47px;
+  width: 100%;
+  max-width: 350px;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.image {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.details {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.details a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.details a:hover {
+  text-decoration: underline;
+}
+
+.link {
+  display: inline-block;
+  font-size: 1rem;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #0056b3;
+}
+
+.placeholderTitle {
+  visibility: hidden;
+  /* Hace que el texto sea invisible */
+  height: 0;
+  /* No afecta la altura del contenido visible */
+  font-size: 1.2rem;
+  /* Debe coincidir con el tamaño de fuente del título */
+  font-weight: bold;
+}

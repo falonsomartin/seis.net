@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2235<br>
+Altitud, m: (700-1402) 1099<br>
+Pendiente, %: (1-8) 4<br>
+Términos municipales: Alcaine, Aliagas, Allueva, Alpeñes, Anadon, Badenas, Bea, Camarillas, Castel de Cabra, Cañada Vellida, Cañizar del Olivar, Comunidad de Pardina de Mercadel, Cortes de Aragon, Cosa, Crivillen, Cucalon, Cuvas de Almuden, Ejulve, Escucha, Estercuel, Ferreruela de Huerva, Fonfria, Fuenferrada, Fuentes Calientes, Gargallo, Hinojosa de Jarque, Huesa del Comun, Jarque de la Val, Josa, La Hoz de la Vieja, La Zoma, Lagueruela, Lanzuela, Loscos, Maicas, Martin del Rio, Mezquita de Jarque, Monforte de Moyuela, Montalban, Nogueras, Obon, Palomar de Arroyos, Pancrudo, Plou, Rillo, Salcedillo, Santa Cruz de Nogueras, Segura de los Baños, Torre de las Arcas, Torre los Negros, Torrecillo del Rebollar, Utrillas, Villahermosa del Campo, Villanueva del Rebollar de la Sierra, Vivel del Rio Martin.<br>

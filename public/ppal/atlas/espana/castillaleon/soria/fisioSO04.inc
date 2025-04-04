@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2402<br>
+Altitud, m: (809-2169) 1073<br>
+Pendiente, %: (1-13) 5<br>
+Términos municipales: Agreda, Alconaba, Aldealafuente, Aldealpozo, Aldealseñor, Aldehuela de Periañez, Aliud, Almajano, Almaluez, Almazul, Almenar de Soria, Arancon, Beraton, Bliecos, Borobia, Buberos, Buitrago, Cabrejas del Campo, Candilichera, Carabantes, Castilruiz, Cañamaque, Cihuela, Ciria, Ciruiales del Rio, Cueva de Agreda, Devanos, Deza, Fuentecantos, Fuentelmonge, Fuentelsaz de Soria, Gomara, Hinojosa del Campo, La Losilla, Los Villares de Soria, Matalebreras, Monteagudo de las Vicarias, Narros, Noviercas, Olvega, Pinilla del Campo, Portillod de Soria, Pozalmuro, Quiñoneria, Renieblas, Reznos, Santa Maria de Huerta, Seron de Nagima, Soria, Tajahuerce, Tejado, Torlengua, Torrubia de Soria, Velilla de la Sierra, Velilla de los Ajos, Villar del Campo, Villaseca de Arciel, Vozmediano.<br>

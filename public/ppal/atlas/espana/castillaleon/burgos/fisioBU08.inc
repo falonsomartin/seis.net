@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1562<br>
+Altitud, m: (777-1003) 869<br>
+Pendiente, %: (1-4) 3<br>
+Términos municipales: Arenillas de Riopisuerga, Barrio de Muño, Belbimbre, Castellanos de Castro, Castillo de Riopisuerga, Castrillo Matajudios, Castrillo de Rio Pisuerga, Castrojeriz, Grijalba, Hontanas, Iglesias, Itero del Castillo, Las Hormazas, Los Balbases, Mancilles, Melgar de Fernamental, Padilla de Abajo, Padilla de Arriba, Palacios de Riopisuerga, Palazuelos de Muño, Pampliega, Pedrosa del Paramo, Pedrosa del Principe, Revilla Vallejera, Rezmondo, Sasamon, Sordillos, Sotresgudo, Susinos del Paramo, Tamaron, Tobar, Vallejera, Valles de Palenzuela, Villadiego, Villaldemiro, Villamayor de Treviño, Villamedianilla, Villaquiran de la Puebla, Villaquiran de los Infantes, Villasandino, Villaverde-Mogina, Villazopeque, Villegas, Zarzosa de Rio Pisuerga.<br>

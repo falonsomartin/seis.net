@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1272<br>
+Altitud, m: (0-795) 304<br>
+Pendiente, %: (1-11) 5<br>
+Términos municipales: Alcover, Alforja, Alio, Almoster, Altafulla, Botarell, Brafim, Cabra del Camp, Cambrils, Castellvell del Camp, Colldejou, Constanti, Duesaigües, El Catllar, El Mila, El Morell, El Pla de Santa Maria, El Pont d'Armentera, El Rourell, Els Gandells, Els Pallaresos, Figuerola del Camp, L'Albiol, L'Aleixar, L'Argentera, La Maso, La Nou de Gaia, La Pobla de Mafumet, La Pobla de Montornes, La Riba, La Riera de Gaia, La Secuita, La Selva del Camp, Les Borges del Camp, Masllorenþ, Maspujols, Mont-roig del Camp, Montbrio del Camp, Montferri, Nulles, Perafort, Pratdip, Puigpelat, Renau, Reus, Riudecanyes, Riudecols, Riudoms, Rodonya, Salomo, Salou, Tarragona, Torredembarra, Vallmoll, Valls, Vandellos i l'Hospitalet de l'Infant, Vespella de Gaia, Vila-rodona, Vila-seca, Vilabella, Vilallonga del Camp, Vilanova d'Escornalbou, Vilaplana, Vinyols i els Arcs.<br>

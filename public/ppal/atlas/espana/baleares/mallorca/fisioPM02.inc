@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: <br>
+Altitud, m: <br>
+Pendiente, %: <br>
+Términos municipales: Alaro, Alcudia, Algaida, Andraitx, Ariany, Arta, Bañalbufar, Binissalem, Buger, Bunyola, Calvia, Campanet, Campos, Capdepera, Consell, Costitx, Deya, Escorca, Esporles, Estellenchs, Felanitx, Fornalutx, Inca, Lloret de Vista Alegre, Lloseta, Llubi, Llucmajor, Manacor, Mancor de la Vall, Maria de la Salud, Marratxi, Montuiri, Muro, Palma de Mallorca, Palma de Mallorca (Parque Nacional Maritimo-Terrestre del Archipielago de Cabrera), Palma de Mallorca (Parque Nacional Maritimo-Terrestre del Archipielago de Cabrera), Petra, Pollenþa, Porreres, Puigpunyent, Sa Pobla, Sant Joan, Sant Llorenþ des Cardassar, Santa Eugenia, Santa Margalida, Santa Maria del Cami, Santanyi, Selva, Sencelles, Ses Salines, Sineu, Soller, Son Servera, Valldemosa, Villafranca de Bonany.<br>

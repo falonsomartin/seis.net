@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2665<br>
+Altitud, m: (286-1034) 443<br>
+Pendiente, %: (1-10) 4<br>
+Términos municipales: Alcañizo, Alcolea de Tajo, Almendral de la Cañada, Azutan, Buenaventura, Calera y Chozas, Caleruela, Calzada de Oropesa, Cardiel de los Montes, Castillo de Bayuela, Cazalegas, Cebolla, Cervera de los Montes, El Puente del Arzobispo, El Real de San Vicente, Herreruela de Oropesa, Hinojosa de San Vicente, Illan de Vacas, La Iglesuela, La Pueblanueva, Lagartera, Las Herencias, Las Ventas de San Julian, Los Cerralbos, Lucillos, Malpica de Tajo, Marrupe, Mejorada, Montearagon, Montesclaros, Navalcan, Navalmoralejo, Navamorcuende, Oropesa, Parrillas, Pepino, San Bartolome de las Abiertas, San Roman de los Montes, Sartajada, Segurilla, Sotillo de las Palomas, Talavera de la Reina, Torralba de Oropesa, Torrico, Valdeverdeja, Velada.<br>

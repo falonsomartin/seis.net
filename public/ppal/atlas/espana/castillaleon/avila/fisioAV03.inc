@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1137<br>
+Altitud, m: (989-2380) 1347<br>
+Pendiente, %: (1-14) 7<br>
+Términos municipales: Aldeanueva de Santa Cruz, Avellaneda, Becedas, Becedillas, Bohoyo, Bonilla de la Sierra, Casas del Puerto de Villatoro, Collado del Miron, El Barco de Avila, El Losar del Barco, El Miron, Gil Garcia, Gilbuena, Hoyorredondo, Junciana, La Aldehuela, La Carrera, La Horcajada, Los Llanos de Tormes, Malpartida de Corneja, Medinilla, Mesegar de Corneja, Mesegar de Corneja, Nava del Barco, Navacepedilla de Corneja, Navaescurial, Navalonguilla, Navatejares, Neila de San Miguel, Piedrahita, Puerto Castilla, San Bartolome de Bejar, San Bartolome de Corneja, San Lorenzo de Tormes, San Miguel de Corneja, Santa Maria de os Caballeros, Santa Maria del Berrocal, Santiago de Tormes, Santiago del Collado, Solana de Avila, Tormellas, Tortoles, Umbrias, Villafranca de la Sierra, Villafranca de la Sierra, Villafranca de la Sierra, Villar de Corneja.<br>

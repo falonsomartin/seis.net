@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1404<br>
+Altitud, m: (762-859) 802<br>
+Pendiente, %: (1-1) 1<br>
+Términos municipales: Algadefe, Cabreros del Rio, Campazas, Campo de Villadiel, Castilfale, Chozas de Abajo, Cimanes de la Vega, Corbillos de los Oteros, Cubillas de los Oteros, Fresno de la Vega, Fuentes de Carbajal, Gordoncillo, Gusendos de los Oteros, Izagre, Mansilla Mayor, Mansilla de las Mulas, Matadeon de los Oteros, Matanza, Onzonilla, Pajares de los Oteros, San Millan de los Caballeros, Santa Cristina de Valmadrigal, Santa Martas, Toral de los Guzmanes, Valdemora, Valderas, Valencia de Don Juan, Valverde-Enrique, Vega de Infanzones, Villabraz, Villademor de la Vega, Villamandos, Villamañan, Villamoratiel de las Matas, Villanueva de las Manzanas, Villaornate y Castro, Villaquejida, Villasabariego, Villaturiel.<br>

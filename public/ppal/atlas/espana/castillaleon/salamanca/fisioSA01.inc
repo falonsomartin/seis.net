@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1236<br>
+Altitud, m: (804-1100) 932<br>
+Pendiente, %: (1-3) 2<br>
+Términos municipales: Alba de Tormes, Aldeasecas de Alba, Aldeavieja de Tormes, Anaya de Alba, Armenteros, Beleña, Berrocal de Salvatierra, Buenavista, Calvarrasa de Arriba, Casafranca, Cespedosa de Tormes, Chagarcia Medianero, Coca de Alba, Ejeme, Encinas de Arriba, Fresno Alhandiga, Fuenterroble de Salvatierra, Fuentes de Bejar, Gajates, Galinduste, Galisancho, Gallegos de Solmiron, Garcihernandez, Guijo de Avila, Guijuelo, Horcajo Medianero, La Maya, La Tala, Larrodrigo, Martinamor, Montejo, Monterrubio de la Sierra, Nava de Bejar, Navales, Pedraza de Alba, Pedrosillo de Alba, Pedrosillo de los Aires, Pelayos, Peñarandilla, Pizarral, Salvatierra de Tormes, Sieteiglesias de Tormes, Terradillos, Valdecarros, Valdemierque.<br>

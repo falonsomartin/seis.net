@@ -1,0 +1,1 @@
+Triásico: Indiferenciado, micasquistos grafitosos, cuarcitas, micacitas, anfibolitas, mármoles y gneiss<br>

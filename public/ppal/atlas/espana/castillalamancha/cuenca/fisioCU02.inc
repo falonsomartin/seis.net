@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 3067<br>
+Altitud, m: (698-1102) 869<br>
+Pendiente, %: (1-3) 2<br>
+Términos municipales: Alcazar del Rey, Alconchel de la Estrella, Almendros, Almonacid del Marquesado, Altarejos, Atalaya del Cañavate, Belinchon, Belmontejo, Campos del Paraiso, Castillo de Garcimuñoz, Cañada-Juncosa, Cervera del Llano, El Acebron, El Cañavate, El Hito, Fuente de Pedro Naharro, Honrubia, Horcajo de Santiago, Huelves, Huerta de la Obispalia, La Almarcha, La Hinojosa, Montalbanejo, Montalbo, Mota de Altarejos, Olivares de Jucar, Palomares del Campo, Paredes, Pinarejo, Pozorrubio, Puebla de Almenara, Rozalen del Monte, Saelices, San Lorenzo de la Parrilla, Taranon, Torrejoncillo del Rey, Torrubia del Campo, Torrubia del Castillo, Tribaldos, Ucles, Valverde de Jucar, Villagordo del Marquesado, Villar de Cañas, Villarejo de Fuentes, Villarejo-Periesteban, Villares del Saz, Villarubio, Villaverde y Pasaconsol, Zafra de Zancara, Zarza de Tajo.<br>

@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1349<br>
+Altitud, m: (0-825) 270<br>
+Pendiente, %: (1-13) 6<br>
+Términos municipales: Agullana, Albanya, Avinyonet de Puigventos, Bascara, Biure, Boadella d'Emporda, Borrasaa, Cabanelles, Cabanes, Cadaques, Cantallops, Capmany, Castello d'Empuries, Cistella, Colera, Darnius, El Far d'Emporda, El Port de la Selva, Espolla, Figueres, Fortia, Garrigas, Garriguella, L'Armentera, La Jonquera, La Jonquera, La Selva de Mar, La Vajol, Llado, Llanþa, Llers, Masarac, Maþanet de Cabrenys, Mollet de Peralada, Navata, Ordis, Palau de Santa Eulalia, Palau-saverdera, Pau, Pedret i Marza, Peralada, Pont de Molins, Pontos, Portbou, Rabos, Riumors, Roses, Sant Climent Sescebes, Sant Llorenþ de la Muga, Sant Miquel de Fluvia, Sant Mori, Sant Pere Pescador, Santa Llogaia d'Alguema, Saus, Siurana, Terrades, Torroella de Fluvia, Ventallo, Vila-sacra, Vilabertran, Viladamat, Vilaju´ga, Vilamacolum, Vilamalla, Vilamaniscle, Vilanant, Vilaün.<br>

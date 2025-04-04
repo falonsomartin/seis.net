@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2425<br>
+Altitud, m: (524-1137) 797<br>
+Pendiente, %: (1-13) 6<br>
+Términos municipales: Agallas, Alba de Yeltes, Aldea del Obispo, Campillo de Azaba, Carpio de Azaba, Casillas de Flores, Castillejo de Martin Viejo, Ciudad Rodrigo, Dios le Guarde, El Bordon, El Maillo, El Payo, El Sahugo, Espeja, Fuenteguinaldo, Fuentes de Oñoro, Gallegos de Argañan, Herguijuela de Ciudad Rodrigo, Ituero de Azaba, La Alameda de Gardon, La Alamedilla, La Alberguerias de Argañan, La Atalaya, La Bouza, La Encina, Martiago, Monsagro, Morasverdes, Navasfrias, Olmedo de Camaces, Pastores, Peñaparda, Puebla de Azaba, Puerto Seguro, Retortillo, Robleda, Saelices el Chico, Sancti-Spiritus, Serradilla del Arroyo, Serradilla del Llano, Tenebron, Villar de Argañan, Villar de Ciervo, Villar de la Yegua, Villasrubias, Zamarra.<br>

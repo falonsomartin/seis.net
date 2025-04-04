@@ -1,0 +1,103 @@
+.container {
+  padding: 20px;
+}
+
+.softwareImg {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.softwareCardName {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.softwareCardSummary {
+  font-size: 1rem;
+  color: #666;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.cardList {
+  display: flex;
+  justify-content: center;
+  /* Centra horizontalmente */
+  align-items: center;
+  /* Centra verticalmente */
+  flex-wrap: wrap;
+  /* Permite que las tarjetas se ajusten si hay muchas */
+  gap: 20px;
+  /* Espacio entre las tarjetas */
+  overflow: hidden;
+  /* Oculta cualquier desbordamiento */
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.tabContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 5px 10px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #0056b3;
+}
+
+.pagination span {
+  font-size: 1rem;
+}
+
+.sliderWrapper {
+  overflow: hidden;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  /* Centra horizontalmente */
+  align-items: center;
+  /* Centra verticalmente */
+}
+
+.slider {
+  display: flex;
+  gap: 20px;
+  transition: transform 0.5s ease-in-out;
+  justify-content: center;
+  /* Asegura que las tarjetas se centren si hay pocas */
+}

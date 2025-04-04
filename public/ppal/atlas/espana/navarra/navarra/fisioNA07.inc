@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1541<br>
+Altitud, m: (400-1235) 666<br>
+Pendiente, %: (1-12) 5<br>
+Términos municipales: Abaigar, Abarzuza, Aberin, Aguilar de Codes, Allin, Allo, Amescoa Baja, Ancin, Aranache, Aras, Arellano, Armañanzas, Arroniz, Ayegui, Azuelo, Barbarin, Bargota, Cabredo, Cirauqui, Comunidad de Barbarin y Olejua, Comunidad de Sierra Santiago de Loquiz, Desojo, Dicastillo, El Busto, Espronceda, Estella/Lizarra, Etayo, Eulate, Genevilla, Guesalaz, Iguzquiza, Iguzquiza y Villamayor de Monjandin, Lana, Lapoblacion, Larraona, Larraona, Aranarache, Eulate y Amescoa Baja, Lazagurria, Legaria, Lezaun, Los Arcos, Luquin, Luquin, Villamayor de Monjardin e Iguzquiza, Marañon, Mendaza, Metauten, Meñeru, Mirafuentes, Montes de Urbasa y Andia, Morentin, Mues, Muniain, Murieta, Nazar, Oco, Olejua, Oteiza, Piedramillera, Salinas de Oro, Sansol, Sorlada, Torralba del Rio, Torres del Rio, Viana, Villamayor de Monjardin, Villatuerta, Yerri, Zuñiga.<br>

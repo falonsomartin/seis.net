@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2921<br>
+Altitud, m: (1093-1609) 1288<br>
+Pendiente, %: (1-8) 4<br>
+Términos municipales: Adobes, Alcoroches, Algar de Mesa, Alustante, Anquela del Ducado, Anquela del Pedregal, Baños de Tajo, Campillo de Dueñas, Castellar de la Muela, Castillonuevo, Checa, Chequilla, Ciruelos del Pinar, Cobeta, Corduente, El Pedregal, El Pobo de Dueñas, Embid, Estables, Fuembellida, Fuentelsaz, Herreria, Hombrados, La Yunta, Luzon, Maranchon, Mazarate, Megina, Milmarcos, Mochales, Molina de Aragon, Morenilla, Orea, Pardos, Peralejo de las Truchas, Pinilla de Molina, Piqueras, Prados Redondos, Rillo de Gallo, Rueda de la Sierra, Selas, Setiles, Taravilla, Tartanedo, Terzaga, Tierzo, Tordellego, Tordesilos, Torrecuadrada de Molina, Torremocha del Pinar, Torremochuela, Torrubia, Tortuera, Traid, Valhermoso, Villel de Mesa.<br>

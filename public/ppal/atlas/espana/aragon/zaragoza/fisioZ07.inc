@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 4987<br>
+Altitud, m: (191-890) 417<br>
+Pendiente, %: (1-5) 3<br>
+Términos municipales: Alagon, Alcala de Ebro, Alfajarin, Almochuel, Almonacid de la Cuba, Azuara, Barboles, Bardallur, Belchite, Boquiñeni, Botorrita, Cabañas de Ebro, Cadrete, Codo, Cuarte de Huerva, El Burgo de Ebro, Farlete, Figueruelas, Fuendetodos, Fuentes de Ebro, Gelsa, Grisen, Jaulin, La Joyosa, La Muela, La Puebla de Alfinden, Lagata, Lecera, Leciñena, Letux, Luceni, Maria de Huerva, Mediana de Aragon, Monegrillo, Moneva, Moyuela, Mozota, Nuez de Ebro, Osera de Ebro, Pastriz, Pedrola, Perdiguera, Pina de Ebro, Pinseque, Pleitas, Plenas, Puebla de Alborton, Quinto, Remolinos, Samper del Salz, San Mateo de Gallego, Sobradiel, Torres de Berrellen, Utebo, Valmadrid, Velilla de Ebro, Villafranca de Ebro, Villanueva de Gallego, Zaragoza, Zuera.<br>

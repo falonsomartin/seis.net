@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 2412<br>
+Altitud, m: (700-1202) 979<br>
+Pendiente, %: (1-6) 3<br>
+Términos municipales: Abanades, Ablanque, Alaminos, Alarilla, Alcolea del Pinar, Algora, Almadrones, Anguita, Arguecila, Barriopedro, Brihuega, Bujalaro, Canredondo, Casas de San Galindo, Castejon de Henares, Cañizar, Cifuentes, Ciruelas, Cogollor, Copernal, El Sotillo, Espinosa de Henares, Esplegares, Gajanejos, Henche, Heras de Ayuso, Hita, Hortezuela de Ocen, Huertahernando, Iniestola, Irueste, Jadraque, Las Inviernas, Ledanca, Luzaga, Mandayona, Masegoso de Tajuña, Matillas, Mirabueno, Miralrio, Muduex, Ocentejo, Olmeda de Cobeta, Riba de Saelices, Sacecorbo, Saelices de la Sal, San Andres del Rey, Solanillos del Extremo, Sotodosos, Taragudo, Torija, Torre del Burgo, Torrecuadrilla, Torremocha del Campo, Trijueque, Utande, Valdearenas, Valderrebollo, Villanueva de Argecilla, Villaseca de Henares, Yelamos de Abajo, Yelamos de Arriba.<br>

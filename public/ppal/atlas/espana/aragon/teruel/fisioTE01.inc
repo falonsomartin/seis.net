@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 4025<br>
+Altitud, m: (200-1100) 579<br>
+Pendiente, %: (1-7) 4<br>
+Términos municipales: Aguaviva, Alacon, Albalate del Arzobispo, Alcañiz, Alcorisa, Alloza, Andorra, Arens de Lledo, Ariño, Azaila, Beceite, Belmonte de San Jose, Berge, Blesa, Bordon, Calaceite, Calanda, Castellote, Castelnou, Castelseras, Cretas, Fornoles, Foz-Calanda, Fuentespalda, Hijar, Jatiel, La Cañada de Verich, La Cerollera, La Cordoñera, La Fresnada, La Ginebrosa, La Portellada, La Puebla de Hijar, Las Parras de Castellote, Lledo, Los Olmos, Mas de las Matas, Mata de los Olmos, Mazaleon, Molinos, Monroyo, Muniesa, Oliete, Peñarroya de Tastavins, Rafales, Samper de Calanda, Seno, Torre de Arcas, Torre del Compte, Torrecilla de Alcañiz, Torrevellilla, Urrea de Gaen, Valdealgorta, Valderrobres, Valdetormo, Valjunquera, Vinaceite.<br>

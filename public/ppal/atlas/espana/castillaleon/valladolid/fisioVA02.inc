@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1917<br>
+Altitud, m: (697-800) 750<br>
+Pendiente, %: (1-1) 1<br>
+Términos municipales: Alaejos, Ataquines, Bobadilla del Campo, Brahojos de Medina, Carpio, Castrejon de Trabancos, Castronuño, Cervillego de la Cruz, El Campillo, Fresno el Viejo, Fuente el Sol, La Seca, Lomoviejo, Matapozuelos, Medina del Campo, Moraleja de las Panaderas, Muriel, Nava del Rey, Nueva Villa de las Torres, Pollos, Pozal de Gallinas, Pozaldez, Rubi de Bracamonte, Rueda, Salvador de Zapardiel, San Miguel del Pino, San Pablo de la Moraleja, San Roman de Homija, San Vicente del palacio, Serrada, Siete Iglesias de Trabancos, Tordesillas, Torrecilla de la Abadesa, Torrecilla de la Orden, Valdestillas, Velascalvaro, Ventosa de la Cuesta, Villafranca de Duero, Villanueva de Duero, Villaverde de Medina.<br>

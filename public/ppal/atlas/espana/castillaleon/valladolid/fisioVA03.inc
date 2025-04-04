@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 1788<br>
+Altitud, m: (700-995) 806<br>
+Pendiente, %: (1-3) 2<br>
+Términos municipales: Aguasal, Alcazaren, Aldea de San Miguel, Aldeamayor de San Martin, Almenara de Adaja, Bahabon, Bocigas, Bocos de Duero, Campaspero, Camporredondo, Canalejas de Peñafiel, Castrillo de Duero, Cogeces de Iscar, Cogeces del Monte, Corrales de Duero, Curiel de Duero, Fompedraza, Fuente-Olmedo, Hornillos de Eresma, Iscar, La Parrilla, La Pedraja de Portillo, La Zarza, Langayo, Llano de Olmedo, Manzanillo, Megeces, Mojados, Montemayor de Pililla, Olmedo, Olmos de Peñafiel, Pedrajas de San Esteban, Pesquera de Duero, Peñafiel, Piñel de Abajo, Piñel de Arriba, Portillo, Puras, Quintanilla de Arriba, Quintanilla de Onesimo, Rabano, Ramiro, Roturas, San Llorente, San Llorente, San Miguel del Arroyo, Santibañez de Valcorba, Sardon de Duero, Torre de Peñafiel, Torrescarcela, Traspinedo, Valbuena de Duero, Valdearcos de la Vega, Viloria.<br>

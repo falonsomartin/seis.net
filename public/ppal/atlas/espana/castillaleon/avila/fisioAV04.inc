@@ -1,0 +1,4 @@
+Extensión, Km<sup>2</sup>: 819<br>
+Altitud, m: (908-2113) 1524<br>
+Pendiente, %: (1-11) 6<br>
+Términos municipales: Cepeda la Mora, Garganta del Villar, Hoyocasero, Hoyos de Miguel Muñoz, Hoyos del  Collado, Hoyos del Espino, Hoyos del Espino (Reserva Nacional de Gredos), Navacasera, Navadijos, Navalacruz, Navalosa, Navalperal de Tormes, Navalperal de Tormes (Reserva Nacional de Gredos), Navarredonda de Gredos, Navarredonda de Gredos (Reserva Nacional de Gredos), Navarredonda de Gredos (Reserva Nacional de Gredos), Navarredondilla, Navarrevisca, Navatalgordo, San Juan de Gredos, San Juan de Gredos (Reserva Nacional de Gredos), San Juan de Molinilla, San Martin de la Vega del Alberche, San Martin del Pimpollar, Serranillos, Villanueva de Avila, Zapardiel de la Ribera, Zapardiel de la Ribera (Reserva Nacional de Gredos), Zapardiel de la Ribera (Reserva Nacional de Gredos).<br>
